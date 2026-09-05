@@ -1,4 +1,4 @@
-# 🩺 Healthcare Diagnostic Engine
+# 🩺 Healthcare Chatbot
 
 An interactive, Object-Oriented Machine Learning Healthcare Chatbot written in Python. Built using a Decision Tree Classifier, this engine predicts potential medical conditions through dynamic symptom traversal, supports localized Hinglish/Hindi response validation, and provides detailed disease descriptions alongside step-by-step precautionary measures.
 
